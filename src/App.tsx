@@ -20,10 +20,10 @@ const STARNOVA: CryptoData = {
   id: 'starnova',
   symbol: 'snova',
   name: 'Starnova',
-  current_price: 0.000078,
+  current_price: 0.000085,
   price_change_percentage_24h: 2.45,
-  market_cap: 64000,
-  total_volume: 11000,
+  market_cap: 69000,
+  total_volume: 7000,
   image: '/StarNovaLogo.jpg', // Logo local Starnova
   launch_date: '2023-10-15',
   max_supply: 1000000000,
